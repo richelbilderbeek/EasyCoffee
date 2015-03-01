@@ -39,4 +39,27 @@ The cheapest. At my supermarket, this happens to be Paco instant coffee.
 
 Nothing. I have not a single relation to any company related to coffee whatsoever.
 
+## Is it important to clean the sink?
+
+No, it is not important to clean the sink.
+
+## Is it important to clean the tap?
+
+No, it is not important to clean the tap.
+
+## Is it important to clean the outside of the cup?
+
+No, it is not important to clean the outside of the cup.
+
+## I have no cutlery to stir the partially dissolved coffee powder. How to make EasyCoffee anyway?
+
+You have two options:
+ * Make the suspension mix by shaking the cup with suspension in a horizontal circular motion (clockwise works as good as counter-clockwise). Take care not to shake too hard, otherwise some delecious coffee may spill out of the cup
+ * Find something else to stir with. The rules for this are very complex, so either don't do this or ask an expert
+
+## I have no cup to hold the coffee. How to make EasyCoffee anyway?
+
+YOU CANNOT USE YOUR MOUTH AS CONTAINER! The hot water from the tap will burn your mouth! However, if you use cold water instead, you can make a delicious cold EasyCoffee (especially good in Summer)!
+
+You can use most other containers. You could even use the kitchen sink as a sink (you might want to clean it first) and use a straw to drink the Easy Coffee.
 
