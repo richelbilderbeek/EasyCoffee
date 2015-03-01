@@ -69,3 +69,8 @@ You can get hot water from a shower or tap in the bathroom.
 
 A time-intensive alternative is to find cold water and boil it. Cold water can be found in bottles, most taps and in the toilet (Tip: use the water in the water tank, instead of the water in the bottom of the toilet). Boiling the water is even more complex: you can use a microwave, oven, kitchen stove (both gas and electrical), water boiler and many more ways. If in doubt: don't do it or ask an expert.
 
+## I have no instant coffee. How to make EasyCoffee anyway?
+
+You cannot: it is the instant coffee that is the only vital ingredient for EasyCoffee.
+
+You can create (non-Easy) coffee if you have coffee beans, or grinded coffee beans, but it is needlessly much work and I won't describe the whole lengthy process here. 
