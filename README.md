@@ -2,6 +2,8 @@
 
 Guide to make excellent coffee in one minute without using specialized machines.
 
+You can also read the [FAQ](FAQ.md).
+
 ## Pre-heat the cup
 
 I like to pre-heat the cup by putting hot water from the tap in it. This step can be safely omitted, as it won't significantly affect the taste.
@@ -49,3 +51,5 @@ After stirring, check visually if all flakes are homogonenized. If not, go back 
 Your excellent coffee is done! Thanks to this guide you can now make the perfect coffee within one minute without using specialized machines!
 
 ![8](8.jpg)
+
+If you have any questions, you can read the [FAQ](FAQ.md).
