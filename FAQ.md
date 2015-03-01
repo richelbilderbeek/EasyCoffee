@@ -2,6 +2,21 @@
 
 [EasyCoffee](README.md) FAQ.
 
+  * [What is EasyCoffee?](#what-is-easycoffee)
+  * [What are the benefits of EasyCoffee?](#what-are-the-benefits-of-easycoffee)
+  * [How can it be that the EasyCoffee way tastes at least just as good as the coffee created from expensive coffee beans by expensive complicated machines?](#how-can-it-be-that-the-easycoffee-way-tastes-at-least-just-as-good-as-the-coffee-created-from-expensive-coffee-beans-by-expensive-complicated-machines)
+  * [Do you consider yourself a professional barista?](#do-you-consider-yourself-a-professional-barista)
+  * [I am or want to become a professional barista, can you teach me?](#i-am-or-want-to-become-a-professional-barista-can-you-teach-me)
+  * [Which brand of instant coffee do you recommend?](#which-brand-of-instant-coffee-do-you-recommend)
+  * [What's in it for you financially?](#whats-in-it-for-you-financially)
+  * [Is it important to clean the sink?](#is-it-important-to-clean-the-sink)
+  * [Is it important to clean the tap?](#is-it-important-to-clean-the-tap)
+  * [Is it important to clean the outside of the cup?](#is-it-important-to-clean-the-outside-of-the-cup)
+  * [I have no cutlery to stir the partially dissolved coffee powder. How to make EasyCoffee anyway?](#i-have-no-cutlery-to-stir-the-partially-dissolved-coffee-powder-how-to-make-easycoffee-anyway)
+  * [I have no cup to hold the coffee. How to make EasyCoffee anyway?](#i-have-no-cup-to-hold-the-coffee-how-to-make-easycoffee-anyway)
+  * [I have no access to a kitchen sink tap to get hot water. How to make EasyCoffee anyway?](#i-have-no-access-to-a-kitchen-sink-tap-to-get-hot-water-how-to-make-easycoffee-anyway)
+  * [I have no instant coffee. How to make EasyCoffee anyway?](#i-have-no-instant-coffee-how-to-make-easycoffee-anyway)
+
 ## What is EasyCoffee?
 
 [EasyCoffee](README.md) is a guide to make excellent coffee in one minute without using specialized machines.
