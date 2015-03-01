@@ -74,7 +74,7 @@ You have two options:
 
 ## I have no cup to hold the coffee. How to make EasyCoffee anyway?
 
-YOU CANNOT USE YOUR MOUTH AS CONTAINER! The hot water from the tap will burn your mouth! However, if you use cold water instead, you can make a delicious cold EasyCoffee (especially good in Summer)!
+YOU CANNOT USE YOUR MOUTH AS A CONTAINER! The hot water from the tap will burn your mouth! However, if you use cold water instead, you can make a delicious cold EasyCoffee (especially good in Summer)!
 
 You can use most other containers. You could even use the kitchen sink as a sink (you might want to clean it first) and use a straw to drink the Easy Coffee.
 
