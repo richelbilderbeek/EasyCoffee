@@ -63,3 +63,9 @@ YOU CANNOT USE YOUR MOUTH AS CONTAINER! The hot water from the tap will burn you
 
 You can use most other containers. You could even use the kitchen sink as a sink (you might want to clean it first) and use a straw to drink the Easy Coffee.
 
+## I have no access to a kitchen sink tap to get hot water. How to make EasyCoffee anyway?
+
+You can get hot water from a shower or tap in the bathroom.
+
+A time-intensive alternative is to find cold water and boil it. Cold water can be found in bottles, most taps and in the toilet (Tip: use the water in the water tank, instead of the water in the bottom of the toilet). Boiling the water is even more complex: you can use a microwave, oven, kitchen stove (both gas and electrical), water boiler and many more ways. If in doubt: don't do it or ask an expert.
+
