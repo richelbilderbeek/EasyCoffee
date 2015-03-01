@@ -2,6 +2,19 @@
 
 [EasyCoffee](README.md) FAQ.
 
+## What is EasyCoffee?
+
+[EasyCoffee](README.md) is a guide to make excellent coffee in one minute without using specialized machines.
+
+## What are the benefits of EasyCoffee?
+
+ * Excellent coffee
+ * No investment in expensive machines needed
+ * Cheap coffee, estimated cost per big cup: couple of USD/euro cents
+ * Time saving
+ * Emotional satisfaction: no placebo effect and/or coffee snobism
+ * Probably a smaller carbon footprint
+
 ## How can it be that the EasyCoffee way tastes at least just as good as the coffee created from expensive coffee beans by expensive complicated machines?
 
 Because objectively it is! 
