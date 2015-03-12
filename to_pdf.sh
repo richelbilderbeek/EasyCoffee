@@ -1,0 +1,1 @@
+pandoc README.md FAQ.md -o EasyCoffee.pdf

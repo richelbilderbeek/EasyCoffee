@@ -4,6 +4,8 @@ Guide to make excellent coffee in one minute without using specialized machines.
 
 You can also read the [FAQ](FAQ.md).
 
+Or download the [PDF](EasyCoffee.pdf).
+
 ## Pre-heat the cup
 
 I like to pre-heat the cup by putting hot water from the tap in it. This step can be safely omitted, as it won't significantly affect the taste.
