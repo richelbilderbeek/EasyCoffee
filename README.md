@@ -18,9 +18,9 @@ Empty the cup. Cleaning it thoroughly is optional, as it won't significantly aff
 
 ![2](Pics/2.jpg)
 
-## Add coffee powder
+## Add instant coffee powder
 
-Just add coffee powder. I fill my cup up with about 15% coffee powder. Adding less coffee powder results in a more watery coffee with less caffeine. Adding more coffee powder results in coffee with a strong coffee taste and more caffeine.
+Just add instant coffee powder. I fill my cup up with about 15% coffee powder. Adding less coffee powder results in a more watery coffee with less caffeine. Adding more coffee powder results in coffee with a strong coffee taste and more caffeine.
 
 ![3](Pics/3.jpg)
 
