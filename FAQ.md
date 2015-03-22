@@ -69,6 +69,7 @@ No, it is not important to clean the outside of the cup.
 ## I have no cutlery to stir the partially dissolved coffee powder. How to make EasyCoffee anyway?
 
 You have two options:
+
  * Make the suspension mix by shaking the cup with suspension in a horizontal circular motion (clockwise works as good as counter-clockwise). Take care not to shake too hard, otherwise some delicious coffee may spill out of the cup
  * Find something else to stir with. The rules for this are very complex, so either don't do this or ask an expert
 
