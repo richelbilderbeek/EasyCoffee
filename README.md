@@ -44,7 +44,7 @@ Stir until the flakes are homogenized. This is about 10 seconds for me. If you l
 
 ## Visual check
 
-After stirring, check visually if all flakes are homogonenized. If not, go back to the previous step. This step can be safely ommited, as it won't significantly affect the average taste.
+After stirring, check visually if all flakes are homogenized. If not, go back to the previous step. This step can be safely ommited, as it won't significantly affect the average taste.
 
 ![7](Pics/7.jpg)
 
